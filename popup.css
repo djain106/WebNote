@@ -1,0 +1,22 @@
+body {
+    background-color: #ccf2ff;
+}
+
+.titleClass {
+    background: transparent;
+    resize: none;
+    border: none;
+    outline: none;
+    height: 6vmax;
+    width: 100%;
+}
+
+.noteClass {
+    resize: vertical;
+    border: none;
+    outline: none;
+    min-height: 5em;
+    max-height: 89vh;
+    line-height: 1.5;
+    background: transparent;
+}

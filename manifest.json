@@ -1,0 +1,21 @@
+{
+  "name": "WebNote",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_title": "WebNote",      
+    "default_popup": "popup.html"
+  },
+  "permissions":[
+    "activeTab",
+    "storage",
+    "tabs"
+  ],
+  "author": "Daksh Jain",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  }
+}
