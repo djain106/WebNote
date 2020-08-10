@@ -90,5 +90,4 @@ function add_note() {
     var index = parseInt(selected_index) + 1;
     var option = new Option(title.value, index);
     select.add(option);
-    console.log("it worked");
 }
