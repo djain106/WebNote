@@ -3,4 +3,4 @@ A Google Chrome extension that allows users to take notes like a sticky note bas
 
 1. Enable Developer Mode in chrome://extensions
 2. ```git clone https://github.com/djain106/WebNote.git ```
-3. Under chrome://extensions, click Load Unpacked and navigate to teh WebNote folder.
+3. Under chrome://extensions, click Load Unpacked and navigate to the WebNote folder.
